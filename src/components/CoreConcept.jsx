@@ -9,5 +9,5 @@ function CoreConcept(props) {
       </li>
     );
   }
-  
+
 export default CoreConcept
